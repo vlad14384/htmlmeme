@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=53UnXy-V-WQ&list=PL3LQJkGQtzc5G7wIQfVqBMEprmTKZIaXf&index=10
+
+col-lg-offset-2, нужно писать offset-lg-2)
